@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Munyangeyoelie/node-course/issues"
   },
-  "homepage": "https://github.com/Munyangeyoelie/node-course#readme"
+  "homepage": "https://github.com/Munyangeyoelie/node-course#readme",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
 }
